@@ -31,3 +31,5 @@ Atualmente trabalho com gerenciamento de pessoas fora da area de T.I (fiscaliza√
 
   
 </div>
+
+
