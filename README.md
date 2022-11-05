@@ -24,7 +24,7 @@ Atualmente trabalho com gerenciamento de pessoas fora da area de T.I (fiscaliza�
 <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorwg&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000FF" />
 </div>  
 
-##### - <div align="center"><em> 📫 Como entrar em contato comigo:</em></div>
+##### <div align="center"><em> - 📫 Como entrar em contato comigo:</em></div>
 <div align="center">
 <a href="https://instagram.com/leorwg-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:leorwg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
