@@ -30,6 +30,7 @@ Atualmente trabalho com gerenciamento de pessoas fora da area de T.I (fiscaliza√
 <a href="https://www.linkedin.com/in/leorwg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
  
+![github contribution grid snake animation](https://raw.githubusercontent.com/leorwg/leorwg/output/github-contribution-grid-snake.svg)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leorwg/leorwg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/leorwg/leorwg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 </div>
