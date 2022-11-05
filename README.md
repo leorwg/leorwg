@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
 
-## <div align = "center"> Eu sou Leonardo .</div>
+## <div align = "center"> Eu sou Leonardo.</div>
 
 Atualmente trabalho com gerenciamento de pessoas fora da area de T.I (fiscalização de processos e auditoria interna), mas sou atraido pelo mundo da tecnologia e estou em processo de travessia no apredizado para  transição de carreira. (Tudo que tem tech eu to dentro ✌️😎)
 
