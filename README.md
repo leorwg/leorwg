@@ -1,5 +1,3 @@
-![Capturar](https://user-images.githubusercontent.com/115992400/200138156-9caff3af-cdc1-4f8f-9981-b90a9cd105fe.JPG)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
 
