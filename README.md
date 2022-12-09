@@ -7,7 +7,6 @@ Atualmente trabalho com gerenciamento de pessoas fora da area de T.I (fiscaliza�
 
 <div display="inline-block">
 <p align="left"> ☕ Café sempre cai bem na hora do treino, ou quase o dia todo😅.</p>
-<p align="left"> 🎧🎮 Musica e games me ajudam a relaxar.</p> 
 <p align="left"> 🌱 Atualmente aprendendo JavaScripts e Html.</p>
 </div>
 
