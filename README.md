@@ -3,11 +3,11 @@
 
 ## <div align = "center"> Eu sou Leonardo.</div>
 
-Atualmente trabalho com gerenciamento de pessoas fora da area de T.I (fiscalização de processos e auditoria interna), mas sou atraido pelo mundo da tecnologia e estou em processo de travessia no apredizado para  transição de carreira. (Tudo que tem tech eu to dentro ✌️😎)
+Atualmente trabalho com gerenciamento no setor de varejo, fora da area de T.I 🤦🏻(fiscalização de processos e auditoria interna), mas o mundo da tecnologia é meu mundo e é pra la que estou indo(Tudo que tem tech eu to dentro ✌️😎).
 
 <div display="inline-block">
 <p align="left"> ☕ Café sempre cai bem na hora do treino, ou quase o dia todo😅.</p>
-<p align="left"> 🌱 Atualmente aprendendo JavaScripts, Html e CSS.</p>
+<p align="left"> </p>
 </div>
 
 ## <div align="center"><em>💻 Trilha de Aprendizagem em andamento:</em></div>
